@@ -1,4 +1,3 @@
-package classroom3;
 
 public class CircleArea {
     private double radius;
