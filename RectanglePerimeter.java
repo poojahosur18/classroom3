@@ -1,4 +1,3 @@
-package classroom3;
 
 public class RectanglePerimeter {
     private double length;
